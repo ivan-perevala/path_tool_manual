@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023 BlenderHQ
+# This file is distributed under the same license as the Path Tool package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+
+
+msgid "Preferences"
+msgstr ""
+
+
+msgid "Control Element"
+msgstr "Контрольний Елемент"
+
+
+msgid "Control element color"
+msgstr "Колір контрольного елементу"
+
+
+msgid "Active Control Element"
+msgstr "Активний Контрольний Елемент"
+
+
+msgid "Color of active control element"
+msgstr "Колір активного контрольного елементу"
+
+
+msgid "Path"
+msgstr "Шлях"
+
+
+msgid "Regular path color"
+msgstr "Колір звичайного шляху"
+
+
+msgid "Topology Path"
+msgstr "Топологічний Шлях"
+
+
+msgid "Color of paths which uses topology calculation method"
+msgstr "Колір шляху що використовує топологічний метод обрахування"
+
+
+msgid "Active Path"
+msgstr "Активний Шлях"
+
+
+msgid "Active path color"
+msgstr "Колір активного шляху"
+
+
+msgid "Active Topology Path"
+msgstr "Активний Топологічний Шлях"
+
+
+msgid "Color of active path which uses topology calculation method"
+msgstr "Колір активного шляху що використовує топологічний метод обрахування"
+
+
+msgid "Path Behind Mesh"
+msgstr "Шлях За Сіткою"
+
+
+msgid "The color of the path displayed behind the mesh"
+msgstr "Колір шляху відображеного за сіткою об'єкту"
+
+
+msgid "Vertex Size"
+msgstr "Розмір Вершин"
+
+
+msgid "The size of the vertex that represents the control element"
+msgstr "Розмір вершини яка позначає контрольний елемент"
+
+
+msgid "Line Thickness"
+msgstr "Товщина Ліній"
+
+
+msgid "The thickness of the lines that mark the segments of the path"
+msgstr "Товщина ліній які позначають відрізки шляху"
+
+
+msgid "Auto Tweak Options"
+msgstr "Автоматичне Корегування Опцій"
+
+
+msgid "Adjust operator options. If no mesh element is initially selected, the selection option will be changed to \"Extend\". If all elements are selected, it will be changed to \"Do nothing\""
+msgstr "Вносити корективи до опцій. Якщо на початку роботи не виділено нічого, буде змінено опцію виділення на\"Розширення\". Якщо ж виділено все - на \"Нічого не робити\""
+
+
+msgid "AA Method"
+msgstr "Метод Згладжування"
+
+
+msgid "Anti-aliasing method to be used"
+msgstr ""
+
+
+msgid "FXAA"
+msgstr ""
+
+
+msgid "Fast approximate anti-aliasing"
+msgstr ""
+
+
+msgid "SMAA"
+msgstr ""
+
+
+msgid "Sub-pixel morphological anti-aliasing"
+msgstr ""
+
+
+msgid "Window Manager"
+msgstr ""
+
+
+msgid "Select"
+msgstr "Виділення"
+
+
+msgid "Selection options"
+msgstr "Опції виділення"
+
+
+msgid "Extend"
+msgstr "Розширити"
+
+
+msgid "Extend existing selection"
+msgstr ""
+
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+
+msgid "Subtract"
+msgstr "Відняти"
+
+
+msgid "Subtract existing selection"
+msgstr ""
+
+
+msgid "Invert"
+msgstr "Інвертувати"
+
+
+msgid "Inverts existing selection"
+msgstr "Інвертувати наявне виділення"
+
+
+msgid "Seam"
+msgstr "Шов"
+
+
+msgid "Mark seam options"
+msgstr "Опції позначення швів"
+
+
+msgid "Mark"
+msgstr "Позначити"
+
+
+msgid "Mark seam path elements"
+msgstr "Позначити елементи шляху(ів) як шви"
+
+
+msgid "Clear"
+msgstr "Очистити"
+
+
+msgid "Clear seam path elements"
+msgstr "Очистити позначені шви елементами шляху(ів)"
+
+
+msgid "Toggle"
+msgstr "Інвертувати"
+
+
+msgid "Toggle seams on path elements"
+msgstr "Інвертувати позначення швів елементами шляху(ів)"
+
+
+msgid "Sharp"
+msgstr "Гострота"
+
+
+msgid "Mark sharp options"
+msgstr "Опції гостроти"
+
+
+msgid "Mark sharp path elements"
+msgstr "Позначити елементи шляху(ів) як гострі"
+
+
+msgid "Clear sharp path elements"
+msgstr "Позначити елементи шляху(ів) як тупі"
+
+
+msgid "Toggle sharpness on path"
+msgstr "Інвертувати позначену гостроту елементами шляху(ів)"
+
+
+msgid "Use Topology Distance"
+msgstr "Топологічна Відстань"
+
+
+msgid "Use the algorithm for determining the shortest path without taking into account the spatial distance, only the number of steps. Newly created paths will use the value of the option, but this can be adjusted individually for each of them"
+msgstr "Використовувати алгоритм визначення найкоротшого шляху без урахування просторової відстані, лише кількості кроків. Новоутворені шляхи будуть використовувати значення опції, але це можна корегувати індивідуально для кожного з них"
+
+
+msgid "Show Path Behind"
+msgstr "Показувати Шлях за Сіткою"
+
+
+msgid "Whether to show the path behind the mesh"
+msgstr "Чи показувати шлях що знаходиться за сіткою об'єкту"
+

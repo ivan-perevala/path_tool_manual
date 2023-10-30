@@ -1,0 +1,578 @@
+
+msgid ""
+msgstr ""
+
+#. :src: bpy.types.Preferences.auto_tweak_options
+msgctxt "Preferences"
+msgid "Auto Tweak Options"
+msgstr ""
+
+#. :src: bpy.types.Preferences.auto_tweak_options
+msgid "Adjust operator options. If no mesh element is initially selected, the selection option will be changed to \"Extend\". If all elements are selected, it will be changed to \"Do nothing\""
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_control_element
+msgctxt "Preferences"
+msgid "Active Control Element"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_control_element
+msgid "Color of active control element"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_path
+msgctxt "Preferences"
+msgid "Active Path"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_path
+msgid "Active path color"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_path_topology
+msgctxt "Preferences"
+msgid "Active Topology Path"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_active_path_topology
+msgid "Color of active path which uses topology calculation method"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_control_element
+msgctxt "Preferences"
+msgid "Control Element"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_control_element
+msgid "Control element color"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path
+msgctxt "Preferences"
+msgid "Path"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path
+msgid "Regular path color"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path_behind
+msgctxt "Preferences"
+msgid "Path Behind Mesh"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path_behind
+msgid "The color of the path displayed behind the mesh"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path_topology
+msgctxt "Preferences"
+msgid "Topology Path"
+msgstr ""
+
+#. :src: bpy.types.Preferences.color_path_topology
+msgid "Color of paths which uses topology calculation method"
+msgstr ""
+
+#. :src: bpy.types.Preferences.info_tab:'README'
+msgctxt "Preferences"
+msgid "How To Use the Addon"
+msgstr ""
+
+#. :src: bpy.types.Preferences.line_width
+msgctxt "Preferences"
+msgid "Line Thickness"
+msgstr ""
+
+#. :src: bpy.types.Preferences.line_width
+msgid "The thickness of the lines that mark the segments of the path"
+msgstr ""
+
+#. :src: bpy.types.Preferences.point_size
+msgctxt "Preferences"
+msgid "Vertex Size"
+msgstr ""
+
+#. :src: bpy.types.Preferences.point_size
+msgid "The size of the vertex that represents the control element"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab
+msgid "User preferences tab to be displayed"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'APPEARANCE'
+msgctxt "Preferences"
+msgid "Appearance"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'APPEARANCE'
+msgid "Appearance settings"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'BEHAVIOR'
+msgctxt "Preferences"
+msgid "Behavior"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'BEHAVIOR'
+msgid "Behavior settings"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'KEYMAP'
+msgctxt "Preferences"
+msgid "Keymap"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'KEYMAP'
+msgid "Keymap settings"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'INFO'
+msgctxt "Preferences"
+msgid "Info"
+msgstr ""
+
+#. :src: bpy.types.Preferences.tab:'INFO'
+msgid "How to use the addon, relative links and licensing information"
+msgstr ""
+
+#. :src: bpy.types.MESH_MT_select_path_presets
+msgid "Operator Preset"
+msgstr ""
+
+#. :src: bpy.types.PREFERENCES_MT_path_tool_appearance_preset
+msgctxt "PREFERENCES_MT_path_tool_appearance_preset"
+msgid "Appearance Preset"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'CHANGE_DIRECTION'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CHANGE_DIRECTION'
+msgid ""
+"Change the direction of the active path.\n"
+"The active element of the path will be the final element from the opposite end of the path, from it will be formed a section to the next control element that you create."
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'CLOSE_PATH'
+msgid "Close Path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'CLOSE_PATH'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CLOSE_PATH'
+msgid "Connect the start and end of the active path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'CANCEL'
+msgid "Cancel"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'CANCEL'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CANCEL'
+msgid "Cancel editing paths"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'APPLY_PATHS'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'APPLY_PATHS'
+msgid "Apply changes to the grid according to the selected options"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'UNDO'
+msgid "Undo"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'UNDO'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'UNDO'
+msgid "Take a step back"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'REDO'
+msgid "Redo"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'REDO'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'REDO'
+msgid "Redo previous undo"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'TOPOLOGY_DISTANCE'
+#. :src: bpy.types.MESH_OT_select_path.context_action:'TOPOLOGY_DISTANCE'
+msgid "Algorithm for determining the shortest path without taking into account the spatial distance, only the number of steps"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'NONE'
+msgid "Select Path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'ADD_CP'
+msgid "Add New Control Point"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'ADD_NEW_PATH'
+msgid "Add New Path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'REMOVE_CP'
+msgid "Remove Control Point"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'DRAG_CP'
+msgid "Drag Control Point"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'RELEASE_PATH'
+msgid "Release Path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.action:'PIE'
+msgid "Open Pie Menu"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CHANGE_DIRECTION'
+msgctxt "MESH_OT_select_path"
+msgid "Direction"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CLOSE_PATH'
+msgctxt "MESH_OT_select_path"
+msgid "Close Path"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'CANCEL'
+msgctxt "MESH_OT_select_path"
+msgid "Cancel"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'APPLY_PATHS'
+msgctxt "MESH_OT_select_path"
+msgid "Apply"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'UNDO'
+msgctxt "MESH_OT_select_path"
+msgid "Undo"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'REDO'
+msgctxt "MESH_OT_select_path"
+msgid "Redo"
+msgstr ""
+
+#. :src: bpy.types.MESH_OT_select_path.context_action:'TOPOLOGY_DISTANCE'
+msgctxt "MESH_OT_select_path"
+msgid "Topology"
+msgstr ""
+
+#. :src: bpy.types.MESH_PT_select_path_context
+msgctxt "MESH_PT_select_path_context"
+msgid "Options"
+msgstr ""
+
+#. :src: bpy.types.VIEW3D_PT_tools_active Tools: 'EDIT_MESH', 'mesh.path_tool'
+msgctxt "Operator"
+msgid "Select Path"
+msgstr ""
+
+#. :src: bpy.types.VIEW3D_PT_tools_active Tools: 'EDIT_MESH', 'mesh.path_tool'
+msgid "Select items using editable paths"
+msgstr ""
+
+#. :src: bpy.types.CollectionProperty
+msgid "Collection Definition"
+msgstr ""
+
+#. :src: bpy.types.CollectionProperty
+msgid "RNA collection property to define lists, arrays and mappings"
+msgstr ""
+
+#. :src: bpy.types.CollectionProperty.fixed_type
+msgid "Pointer Type"
+msgstr ""
+
+#. :src: bpy.types.CollectionProperty.fixed_type
+msgid "Fixed pointer type, empty if variable type"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam
+msgctxt "WMProps"
+msgid "Seam"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam
+msgid "Mark seam options"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'MARK'
+#. :src: bpy.types.WMProps.mark_sharp:'MARK'
+msgctxt "WMProps"
+msgid "Mark"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'MARK'
+msgid "Mark seam path elements"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'NONE'
+#. :src: bpy.types.WMProps.mark_select:'NONE'
+#. :src: bpy.types.WMProps.mark_sharp:'NONE'
+msgctxt "WMProps"
+msgid "Do nothing"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'NONE'
+#. :src: bpy.types.WMProps.mark_select:'NONE'
+#. :src: bpy.types.WMProps.mark_sharp:'NONE'
+msgid "Do nothing"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'CLEAR'
+#. :src: bpy.types.WMProps.mark_sharp:'CLEAR'
+msgctxt "WMProps"
+msgid "Clear"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'CLEAR'
+msgid "Clear seam path elements"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'TOGGLE'
+#. :src: bpy.types.WMProps.mark_sharp:'TOGGLE'
+msgctxt "WMProps"
+msgid "Toggle"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_seam:'TOGGLE'
+msgid "Toggle seams on path elements"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select
+msgctxt "WMProps"
+msgid "Select"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select
+msgid "Selection options"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select:'EXTEND'
+msgctxt "WMProps"
+msgid "Extend"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select:'SUBTRACT'
+msgctxt "WMProps"
+msgid "Subtract"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select:'INVERT'
+msgctxt "WMProps"
+msgid "Invert"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_select:'INVERT'
+msgid "Inverts existing selection"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_sharp
+msgctxt "WMProps"
+msgid "Sharp"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_sharp
+msgid "Mark sharp options"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_sharp:'MARK'
+msgid "Mark sharp path elements"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_sharp:'CLEAR'
+msgid "Clear sharp path elements"
+msgstr ""
+
+#. :src: bpy.types.WMProps.mark_sharp:'TOGGLE'
+msgid "Toggle sharpness on path"
+msgstr ""
+
+#. :src: bpy.types.WMProps.show_path_behind
+msgctxt "WMProps"
+msgid "Show Path Behind"
+msgstr ""
+
+#. :src: bpy.types.WMProps.show_path_behind
+msgid "Whether to show the path behind the mesh"
+msgstr ""
+
+#. :src: bpy.types.WMProps.use_topology_distance
+msgctxt "WMProps"
+msgid "Use Topology Distance"
+msgstr ""
+
+#. :src: bpy.types.WMProps.use_topology_distance
+msgid "Use the algorithm for determining the shortest path without taking into account the spatial distance, only the number of steps. Newly created paths will use the value of the option, but this can be adjusted individually for each of them"
+msgstr ""
+
+#. :src: KM_HIERARCHY.VIEW_3D.EMPTY.VIEW_3D
+msgctxt "WindowManager"
+msgid "3D View Tool: Edit Mesh, Select Path"
+msgstr ""
+
+#. :src: KM_HIERARCHY.VIEW_3D.EMPTY.VIEW_3D
+msgctxt "WindowManager"
+msgid "3D View Tool: Edit Mesh, Select Path (fallback)"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\reports.py:438
+msgctxt "BHQAB_Preferences"
+msgid "Open Log Files Directory"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\reports.py:444
+msgctxt "Operator"
+msgid "Open Log: \"{filename}\"BHQAB_Preferences"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\reports.py:444
+msgctxt "BHQAB_Preferences"
+msgid "Open Log: \"{filename}\""
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:231
+msgid "Warning"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:917
+msgid "Can not check for updates now"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:1089
+msgid "Installing update"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:830
+msgctxt "Operator"
+msgid "Update to {tag_name}"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:909
+msgid "Check for updates now"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:1081
+msgid "Failed to create backup directory"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:1086
+msgid "Failed to make backup"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:1097
+msgid "Unable to remove local installation files, please, check directory permissions"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:815
+msgid "Pre-release"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:1120
+msgid "Update failed, installation restored from backup. Please install the update manually"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:817
+msgid ""
+"Released version {tag_name} {prerelease_fmt}({published_at}), last checked at {checked_at}\n"
+"Release Notes:\n"
+"\n"
+"{body}"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:871
+msgid ""
+"Cache File: {fp}\n"
+"Rate Limit: {rate_limit}\n"
+"Remaining: {remaining}\n"
+"Reset Time: {reset_at}"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:914
+msgid "Unable check for updates before {reset_at}, exceeded rate limit"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:830
+msgid "Update to {tag_name}"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\lib\bhqab\utils_ui.py:837
+msgid "You are using the latest version, checked at {checked_at}"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:677
+msgid "Can not redo anymore"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:878
+msgid "Joined two paths"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:1121
+msgid "Created new path"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:795
+msgid "Merged adjacent control elements"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:784
+msgid "Closed active path"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\main.py:786
+msgid "Closed path"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:328
+#: F:\addons\path_tool_addon\src\props.py:155
+msgid "Remove preset"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:330
+#: F:\addons\path_tool_addon\src\props.py:157
+msgid "Add preset"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:242
+#: F:\addons\path_tool_addon\src\pref.py:246
+msgid "Recommended"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:290
+msgctxt "Preferences"
+msgid "Release Notes"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:293
+msgctxt "Preferences"
+msgid "BlenderHQ on GitHub"
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\pref.py:234
+msgid "Unknown Anti-Aliasing Method."
+msgstr ""
+
+#: F:\addons\path_tool_addon\src\props.py:116
+msgctxt "WMProps"
+msgid "Tool Settings"
+msgstr ""
+
+#. :src: Add-on Path Tool info: name
+msgid "Path Tool"
+msgstr ""
+
+#. :src: Add-on Path Tool info: warning
+msgid "Please, follow installation instructions. You are using debug version."
+msgstr ""
+
+
+#~ msgctxt "BHQAB_Preferences"
+#~ msgid "AA Method"
+#~ msgstr ""
+
